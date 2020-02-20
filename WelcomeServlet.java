@@ -1,3 +1,8 @@
+/*
+	Welcome page for Login Servlet file which will open if the credentials are correct or else will redirect to the login servlet page.
+	
+*/
+
 import javax.servlet.*;
 import java.io.*;
 import javax.servlet.http.*;
