@@ -1,3 +1,11 @@
+/*
+	This program can be used for the login credentials which takes user id and passwords and checks whether the credentials exist
+	in the database or not and dispatches the servlet to the welcome user page.
+	
+	(The program for welcome user is also committed on this repository.)
+
+*/
+
 import javax.servlet.*;
 import java.io.*;
 import javax.servlet.http.*;
