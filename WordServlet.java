@@ -1,3 +1,7 @@
+/*
+	This program displays the servlet in form of ms word.
+*/
+
 import javax.servlet.*;
 import java.io.*;
 import javax.servlet.http.*;
