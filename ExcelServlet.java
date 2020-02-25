@@ -1,3 +1,8 @@
+/*
+	This program shows the display of servlet in the form MS Excel(Table).
+*/
+
+
 import javax.servlet.*;
 import java.io.*;
 import javax.servlet.http.*;
